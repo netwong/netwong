@@ -1,0 +1,51 @@
+MidJourney’s New V5B Algorithm Is Here — It’s Faster and Cheaper
+MidJourney’s New V5B Algorithm Is Here — It’s Faster and Cheaper
+Image by 
+Jim Clyde Monge
+It’s only been a week since MidJourney released the V5 algorithm, which has improved from its predecessor in terms of photorealism, dynamic range, stylistic range, and more.
+
+Today, MidJourney dropped a brand new algorithm that is mainly focused on performance improvements.
+
+To be clear: MidJourney is not officially calling it V5B; they simply refer to it as the “new V5” algorithm and call the previous model V4A. For simplicity, I am going to refer to the new V5 as V5B.
+
+What’s New?
+The new algorithm brings some sweet perks, including:
+
+The new algorithm is twice as fast
+This also means half the cost (in terms of fast hours)
+There is little or no loss in quality
+It should also solve all the GPU shortages
+Check out these jaw-dropping sample images created with V5B.
+
+I added the text prompt in case you’re interested in recreating them.
+
+Sample images
+Prompt: cute, japanese, asian, kawaii, 8k, 18, kimono, girl, frontal shot, ultra detailed, ultra realistic, 85mm lens, f/1.8, accent lighting, portrait, face, extreme close up, public street, day, skinny, hair ponytail, pastel, blonde, goddess — ar 16:9 — s 1000 — iw .5 — v 5 — q 2 — v 5 — s 250 — v 5
+
+cute, japanese, asian, kawaii, 8k, 18, kimono, girl, frontal shot, ultra detailed, ultra realistic, 85mm lens, f/1.8, accent lighting, portrait, face, extreme close up, public street, day, skinny, hair ponytail, pastel, blonde, goddess — ar 16:9 — s 1000 — iw .5 — v 5 — q 2 — v 5 — s 250 — v 5
+Image by 
+Jim Clyde Monge
+Prompt: Betta Fish, galaxies, spirals, space, nebulae, stars, smoke, iridescent, intricate detail, octane render, 8k, — q 2 — ar 16:9 — uplight — v 5 — s 250
+
+Prompt: Betta Fish, galaxies, spirals, space, nebulae, stars, smoke, iridescent, intricate detail, octane render, 8k, — q 2 — ar 16:9 — uplight — v 5 — s 250
+Image by 
+Jim Clyde Monge
+Prompt: abandoned wet small fluffy cat staying on the street in dark raining foggy 1800’s london city, rich colors, realitic, cinematic — no latte art — ar 16:9 — v 5 — s 750 — v 5 — s 250
+
+Prompt: abandoned wet small fluffy cat staying on the street in dark raining foggy 1800’s london city, rich colors, realitic, cinematic — no latte art — ar 16:9 — v 5 — s 750 — v 5 — s 250
+Image by 
+Jim Clyde Monge
+What do you think of these images?
+
+Final Thoughts
+Overall, MidJourney V5B may not be a ground-breaking update, but it’s evident that the creative AI landscape is set for a thrilling ride.
+
+In fact, you may have recently seen the viral photo of the Pope rocking a bougie puffer jacket.
+
+Surprise! That image was created using MidJourney.
+
+While it’s undoubtedly impressive, this also highlights the potential dangers of such advancements. It’s becoming increasingly difficult to differentiate between real and AI-generated images, making it easier than ever to fall for fake images.
+
+So, as we marvel at the astonishing capabilities of AI, we must also remain vigilant and aware of its potential pitfalls.
+
+Stay up to date with the latest news and updates in the creative AI space — follow the Generative AI publication.
